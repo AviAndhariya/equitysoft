@@ -1,0 +1,18 @@
+.container {
+    width: 375px;
+    height: 698px;
+    margin: auto;
+    border: 1px solid #6D7072;
+    background: #ffffff;
+  }
+
+  .nav {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  width: 375px;
+  height: 88px;
+  color: white;
+  text-decoration: none;
+  background: #6D7072 0% 0% no-repeat padding-box;
+}

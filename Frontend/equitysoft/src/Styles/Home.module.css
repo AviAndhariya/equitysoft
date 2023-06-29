@@ -1,0 +1,38 @@
+.container {
+  color: white;
+  text-align: center;
+  height: 698px;
+  width: 375px;
+  margin: auto;
+  border: 1px solid #6d7072;
+}
+textarea{
+  width: 80%;
+  margin-top: 10px;
+  
+}
+.nav {
+  width: 375px;
+  height: 88px;
+  background: #6d7072 0% 0% no-repeat padding-box;
+  opacity: 1;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+
+}
+.box {
+  margin: auto;
+  margin-top: 10px;
+  align-items: center;
+  justify-content: center;
+  height: 175px;
+  width: 343px;
+  background-color: #6d7072;
+  color: white;
+  border-radius: 5px;
+  display: flex;
+  text-align: center;
+}
